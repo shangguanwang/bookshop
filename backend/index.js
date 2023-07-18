@@ -4,11 +4,11 @@ import cors from "cors";
 
 const app = express();
 
-// establish mySQL connection
+// establish mySQL connection, need to replace password with your own
 const db = mysql.createConnection({
   host: "localhost",
   user: "root",
-  password: "19570702",
+  password: "password",
   database: "test",
 });
 
