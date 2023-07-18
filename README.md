@@ -6,7 +6,7 @@ See a video demo on <a href="https://youtu.be/X7rAUhswvFI">Youtube</a>
 
 ### Summary
 A fullstack app that allows users to read, add, update, and delete books.
-![Add New Book](https://github.com/shangguanwang/bookshop/assets/24996005/ea15ecb9-b67d-4bfc-b529-28f95c080232)
+<img align="left" width="100" height="100" src="https://github.com/shangguanwang/bookshop/assets/24996005/ea15ecb9-b67d-4bfc-b529-28f95c080232">
 
 ### Description:
 🛠️ <b>Tools and languages used</b>: 
