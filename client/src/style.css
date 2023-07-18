@@ -1,0 +1,83 @@
+.App {
+    height: 100vh;
+    padding: 0px 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.books{
+    display: flex;
+    gap:20px;
+}
+ 
+.book, .bookdesc{
+    flex:1;
+    display: flex;
+    flex-direction: column;
+    gap:5px;
+    align-items: center;
+}
+
+.booktitle{
+    white-space:nowrap; 
+}
+
+img{
+    width:200px;
+    height:300px;
+    object-fit: cover;
+    background-color: antiquewhite;
+    border: 1px solid lightgray;
+}
+
+.delete{
+    border: none;
+    padding: 3px 6px;
+    background-color: white;
+    cursor: pointer;
+    border: 1px solid rgb(245, 191, 191);
+    color: rgb(242, 100, 100);
+}
+
+.update{
+    border: none;
+    padding: 3px 6px;
+    background-color: white;
+    cursor: pointer;
+    border: 1px solid rgb(204, 204, 243);
+    color: rgb(139, 139, 234);
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+input{
+    width: 250px;
+    padding: 10px;
+    border: 1px solid gray;
+}
+
+.formButton{
+    border: none;
+    padding: 10px;
+    background-color: lightcoral;
+    color:white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.addButton{
+    border: none;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: teal;
+    color:white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
