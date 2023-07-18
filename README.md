@@ -6,7 +6,7 @@ See a video demo on <a href="https://youtu.be/X7rAUhswvFI">Youtube</a>
 
 ### Summary
 A fullstack app that allows users to read, add, update, and delete books.
-<img align="left" height="550" src="https://github.com/shangguanwang/bookshop/assets/24996005/ea15ecb9-b67d-4bfc-b529-28f95c080232">
+<img align="left" height="570" src="https://github.com/shangguanwang/bookshop/assets/24996005/ea15ecb9-b67d-4bfc-b529-28f95c080232">
 
 ### Description:
 🛠️ <b>Tools and languages used</b>: 
@@ -22,4 +22,4 @@ A fullstack app that allows users to read, add, update, and delete books.
 <br>
 😊 <b>What's fun</b>: Seeing the backend talking to the frond-end for the first time feels amazing. I also enjoyed improving user experience via react-router-dom so users can navigate between different pages seamlessly.
 <br>
-📕 <b>Learning resources</b>: I want to thank Lama Dev for his amazing course which sets the foundation really well.
+📕 <b>Learning resources</b>: Special thanks to Lama Dev for his amazing course.
